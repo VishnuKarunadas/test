@@ -1,0 +1,96 @@
+.swiggy_footer_icon__text{
+    display: flex;
+    padding-top: 6px;
+    text-decoration: none;
+    /* flex-direction: column; */
+    /* background-color: aqua; */
+    padding-right: 40px;
+
+}
+.swiggy_footer_icon_image{
+    max-width: 20px;
+    /* background-color: blue; */
+}
+.swiggy_text{
+    padding-top: -20px;
+    padding-left: 10px;
+    color: white;
+    font-family: Roboto, Arial;
+    font-size: 25px;
+    font-size: bold;
+
+}
+.text_01{
+    /* margin-right: 10px; */
+    /* background-color: blue; */
+    /* padding-left: 0px; */
+    margin-left: 10px;
+    margin-bottom: 200px;
+}
+.footer_01{
+    /* background-color: blueviolet; */
+    margin-right: -150px;
+}
+.footerclass_grid{
+    display: grid;
+    grid-template-columns: 50px 1fr 1fr 1fr;
+    padding-left: 250px;
+    padding-right: 100px;
+    padding-top: 15px;
+    /* align-items: start; */
+    background-color: rgb(7, 7, 7);
+    /* justify-items: space-between; */
+
+}
+.campany_about{
+padding-left: px;
+/* margin-right: 40px; */
+padding-right: 3px;
+margin-left: 100px;
+/* background-color: rgb(216, 205, 205); */
+
+
+}
+.Company{
+    padding-left: 50px;
+}
+.Contact_us{
+    padding-left: 25px;
+    /* background-color: black; */
+    /* padding-right: -20px; */
+    /* margin-right: 20px; */
+}
+.contact{
+    margin-left: 20px;
+    /* background-color: aquamarine; */
+}
+.we_deliver_to{
+    padding-left: -102px;
+}
+.text_01{
+    text-decoration: none !important;
+    font-family: Roboto, Arial;
+    font-size: 15px;
+    padding-top: 20px;
+   
+    color: rgb(255, 252, 252);
+}
+.text_10{
+    text-decoration: none !important;
+    font-family: Roboto, Arial;
+    font-size: 15px;
+    padding-top: 20px;
+   
+    color: rgb(255, 252, 252);
+}
+.text_10:visited{
+    text-decoration: none;
+    text-decoration: underline;
+    color: black;
+}
+.text_head{
+    color: white;
+    font-family: Roboto, Arial;
+    font-size: 18px;
+    /* padding-left: 20px; */
+}

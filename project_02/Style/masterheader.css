@@ -1,0 +1,63 @@
+.padding_Masterheader{
+    /* padding-top: 58px; */
+    padding-left: 2px;
+    padding-right: 3px;
+    /* padding-bottom: 5px; */
+   
+
+}
+.MasterHeading_content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(201, 201, 201);
+    -webkit-tap-highlight-color: transparent;
+    padding-top: 98px;
+    padding-left: 4px;
+    padding-right: 188px;
+    padding-bottom: 0px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+  
+}
+
+
+.sub_header_01{
+    /* height: 55px; */
+    /* width: 50px; */
+    padding-top: 33px;
+    padding-left: 180px;
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    /* background-color: lightblue; */
+}
+.MasterHeading__TextContainer{
+    font-family: Roboto, Arial, sans-serif;
+    font-weight: 800px;
+    -webkit-font-smoothing: antialiased;
+    letter-spacing: -0.43px;
+    font-size: 48px;
+    line-height: 36px;
+    /* background-color: rgb(122, 31, 46); */
+    margin-bottom: 10px;
+
+}
+.Restaurants_text{
+    width: 400px;
+    height: 20px;
+    display: flex;
+    flex-direction: column;
+    /* background-color: blue; */
+}
+.log_Restaurants_near_me{
+    /* padding-top: 0px; */
+    width: 128px;
+    /* background-color: blue; */
+    /* height: 100px; */
+}
+.MasterHeading_content_image_mainclass{
+    /* background-color: lightblue; */
+    padding-right: 10px;
+}
+

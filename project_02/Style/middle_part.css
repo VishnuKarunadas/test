@@ -1,0 +1,56 @@
+.text_restaurent{
+    padding-top: 10px;
+    padding-bottom: 0px;
+    padding-left: 180px;
+}
+.middle_part_header{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.flex_class{
+    display: flex;
+    justify-content: space-between;
+    grid-template-columns: 50px 1fr;
+    /* background-color: rgb(182, 27, 27); */
+    padding-top: 20px;
+}
+.button_filter{
+    width: 80px;
+    height: 40px;
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    /* background-color: rgb(199, 196, 196); */
+    /* color: black; */
+    border: none;
+    border-radius: 305px;
+    cursor: pointer;
+    margin-left: 10px;
+    /* margin-bottom: 0cqb; */
+    margin-right: 2px;
+    /* transition: background-color 0.15s; */
+    /* background-color: blueviolet; */
+}
+.filter_class{
+    padding-top: 12px;
+}
+.New_on_Swiggy{
+    border-radius: 25px;
+    border-spacing: 10px;
+    border: none;
+    /* border-bottom-color: white; */
+    /* background-color: white; */
+    /* border-color: rgb(240, 236, 236); */
+    cursor: pointer;
+    /* border-radius: 25px; */
+    /* transition: background-color 0.15s; */
+}
+.imagee_icon_filter{
+padding-top: 12px;
+max-width: 16px;
+}
+.imagee_icon_down_arrow{
+    /* width: 25px; */
+    max-width: 20px;
+    /* background-color: aqua; */
+   }
